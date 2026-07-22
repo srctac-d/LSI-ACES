@@ -69,3 +69,58 @@ To overcome low 1/6th $g$ wheel traction during heavy grading, the ACTER rover a
 
 ---
 *Copyright © 2026 Steve R Campbell. Licensed under CERN-OHL-S v2.*
+
+THE LUNAR SURFACE INFRASTRUCTURE & AUTOMATED CIVIL ENGINEERING SYSTEM (LSI-ACES)
+OFFICIAL ARCHITECTURAL MASTER LOG & ENGINEERING RECORD
+VOLUME 26: FULL-LENGTH SADDLE TRENCH PREPARATION, MECHANICAL CLEARANCE MANDATES, AND OBSTACLE-FREE FOUNDATION SEQUENCING
+CONTEXT DIRECTIVE 87.0: THE UNINTERRUPTED 80-FOOT TRENCH PLANE
+
+To ensure precise structural alignment and prevent binding during the modular expansion of the habitat, the entire 6-foot deep, 80-foot long linear excavation saddle trench must be fully carved, graded, and verified as completely free of obstacles before any downstream structural framing, joist casting, or reburden deposition occurs.
+
+  ============================== NATURAL GRADE LEVEL ==============================
+  \                                                                               /
+   \                                                                             / 
+    \     [ CONTINUOUS UNINTERRUPTED GRADE - COMPLETELY OBSTACLE FREE ]          /  
+  ═══\╧═════════════════════════════════════════════════════════════════════════╧═══
+       [ 80-FOOT FULL-LENGTH EXCAVATED & SMOOTHED LUNAR SUB-GRADE RUNWAY ]
+
+87.1 Civil Excavation Protocol
+
+    Complete Trench Clearance: The ACTER Rover executes the full 80-foot excavation in a single continuous pass. All boulders, consolidated regolith blocks, and jagged basalt outcroppings within the 12-foot wide envelope are completely cleared or pulverized.
+
+    Laser-Swept Floor Verification: A continuous 3D LiDAR sweep verifies that the trench floor maintains a flat horizontal baseline with zero vertical obstructions protruding higher than 5 millimeters across the full 80-foot runway.
+
+    Debris Exclusion Zone: No raw spoils, loose rock piles, or uncompacted tailings are permitted to remain within 3 feet of the trench margins, preventing accidental slide-in contamination onto the sub-grade floor.
+
+CONTEXT DIRECTIVE 88.0: SUB-GRADE BEDDING & CORNER SMOOTHING
+
+Once the raw cut is complete, the sub-grade runway floor receives a mechanical surface preparation sequence to establish a uniform, non-abrasive substrate for the insulation layers.
+
+  [ TRENCH WALL ]                                                   [ TRENCH WALL ]
+   \                                                                       /
+    \  ┌─────────────────────────────────────────────────────────────┐    /
+     \ │  COMPACTED FINE REGOLITH BEDDING LAYER (2-INCH CONTINUOUS)  │   /
+  ════\╧═════════════════════════════════════════════════════════════╧══/══
+       [ UNBROKEN 80-FOOT SMOOTH RUNWAY BASELINE - NO OBSTACLES ]
+
+88.1 Bedding Layer Mechanics
+
+    Sifted Fines Laydown: A thin, 2-inch layer of micro-sifted regolith dust is rolled across the full 80-foot floor length. This fills micro-pits and eliminates sharp, glassy rock edges that could puncture the lower membranes or foam panels.
+
+    Vibratory Roller Pass: The ACTER Rover runs a heavy vibratory compaction roller down the entire 80-foot bed, settling the fine particle layer into a dense, non-shifting foundation plane.
+
+    Continuous Corner Radiusing: The 90-degree intersection where the floor meets the side trench walls is carved into a smooth 12-inch radius curve, allowing the lower foam panels and softgoods to sit flush without stress concentrations.
+
+CONTEXT DIRECTIVE 89.0: UNLEASHED MODULAR DEPLOYMENT SEQUENCE
+
+With the entire 80-foot trench fully prepared, open, and verified, the structural deployment phase proceeds without pausing for localized excavation work.
+
+ [ 1. PREP FULL TRENCH ] ──► [ 2. JACK LEVELING ] ──► [ 3. SLIDE FOAM ] ──► [ 4. EXPAND FRAME ]
+  80-ft runway cleared        X-Bulkhead jacks        Foam glides under      5+2 ft modules welded
+  and laser-swept clean.      lift first 20-ft shell. full open trench.      down unobstructed bed.
+
+    Unencumbered Jacking Operations: The bulkhead leveling jacks operate on a clean, solid, pre-compacted bed, eliminating differential settling during early hull alignment.
+
+    Smooth Foam Panel Insertion: The 1.5-inch pre-formed insulation foam panels can be slid beneath the elevated structure from either side of the open trench along the entire 80-foot length without encountering obstruction or wall collapse.
+
+    Continuous Beam & Floor Advancement: As the 10-foot workspace casts geocrete floor joists and vitrified stone tiles, the assembly crew or humanoid bots move material down the open trench without mechanical interference.
