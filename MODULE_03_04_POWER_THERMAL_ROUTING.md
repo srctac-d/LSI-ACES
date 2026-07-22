@@ -14,6 +14,25 @@ SUB-FLOOR & SYSTEM MATRIX: DATA, LIGHTING, AND POWER TIE-INSSystem / ChannelPrim
  └──────────────────────────────┘└──────────────────────────────┘
 Physical Isolation: Power distribution channels (1,000 V HVDC) and high-density fiber-optic data lines run in parallel isolated conduits within the sub-floor raceway to eliminate electromagnetic interference (EMI) on telemetry links.Dust-Free Connectors: All lighting taps, optical node ties, and low-voltage utility ports utilize sealed, blind-mating magnetic couplings to prevent lunar dust ($<20\ \mu\text{m}$) from degrading optical or electrical contact interfaces.Emergency Photic Safe Mode: In the event of a main bus drop during the lunar night, internal lighting immediately sheds ambient fiber-optic routing and falls back to a 24 V low-draw emergency LED circuit running off the local module supercapacitors.
 
+---
+
+## 🏭 Manufacturing, Fabrication & Compression Specs
+
+### 1. Material & Tooling Tolerances
+| Component | Material | Process | Critical Tolerance | Surface / Treatment |
+| :--- | :--- | :--- | :--- | :--- |
+| **Direct-Chip Cold Plate** | Expanded Synthetic Graphite / HDPE | Micro-CNC / Hot Embossing | $\pm 0.02\text{ mm}$ | Passivated, Acid-Resistant |
+| **Bipolar Plates** | Flexible Graphite Composite | Precision Stamping | $\pm 0.05\text{ mm}$ | High Conductivity Finish |
+| **Porous Electrodes** | Carbon Felt (Graphite Microfibers) | Thermal Air-Oxidation | $\pm 5\%$ Density | Pre-treated at $400^\circ\text{C}$ |
+| **Stack Seal Gaskets** | EPDM / Viton | Waterjet / Injection Mold | $\pm 0.10\text{ mm}$ | Chemical-Inert Grade |
+| **Utilidor Piping** | Dual-Contained HDPE / PTFE | Continuous Extrusion | Schedule 80 Wall | Low-friction smooth inner bore |
+
+### 2. Cell Stack Compression & QA Protocol
+* **Pre-load Torque:** Cross-pattern tie-rod torque to $12\text{ Nm}$ in $3\text{ Nm}$ increments.
+* **Felt Compression Target:** Compress carbon felt to **25%–30%** of baseline uncompressed thickness to maximize ionic conductivity without flow occlusion.
+* **Pneumatic Leak Testing:** $1.5 \times$ max operating pressure ($1.5\text{ bar}$) with dry $N_2$ for 30 minutes prior to wet electrolyte priming.
+* 
+
 Copyright (c) 2026 Steve R Campbell. All Rights Reserved.
 
 LUNAR HABITAT STRUCTURAL & INTEGRATION SPECIFICATION
