@@ -76,8 +76,8 @@ The structure is anchored directly adjacent to or beneath the approximate 100 ft
 
 ### 2.3 Ceiling Monorail & Sub-Floor Utility Basement
 * **Overhead Longitudinal Spine (12 o'clock Vertex):** Heavy-duty 4-inch structural I-beam (Al-Li-2195, S4x2.64) acting as a continuous longitudinal tension tie across bulkheads against 7.0 psi end-cap blowout. Doubles as an overhead monorail hoist track rated for a 2,000 lb moving payload.
-* **Floor Clearance & Joists:** Transverse 3.0 in x 1.5 in C-channel joists elevated 4.0 ft above the bottom inverted arc, mounted on 16 in centers across the 11.3 ft floor chord line.
-* **Sub-Floor Utility Basement (4.0 ft Deep Void):**
+* **Floor Clearance & Joists:** Transverse 5.0 in x 1.5 in C-channel joists elevated 4.0 ft above the bottom inverted arc, mounted on 16 in centers across the 11.3 ft floor chord line.
+* **Sub-Floor Utility Basement (4.0 ft Deep utility space:**
   * **Hydronic Thermal Distribution:** Recessed heating and cooling fluid loops running parallel to joists.
   * **ECLSS & Consumables Storage:** Houses water recycling units, CO2 Removal Assemblies (CDRA), and Type-IV composite high-pressure N2 and O2 reserve vessels.
   * **Thermal & Electrical Storage:** High-density regolith thermal ballast banks and zinc-bromine / iron-flow electrolyte batteries.
