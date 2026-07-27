@@ -112,3 +112,14 @@ LUNAR HABITAT STRUCTURAL & INTEGRATION SPECIFICATION
    
    View license: [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/)
 
+## End Bulkhead Structural Integration
+
+### 1. Pressure Load Metrics at 7.0 psi Operational Atmosphere
+* **12 ft Habitat End Bulkhead:** $113.1\text{ sq ft}$ area under pressure = **$114,000\text{ lbs}$ ($57\text{ tons}$) outward axial thrust**.
+* **14 ft Garage End Bulkhead:** $153.9\text{ sq ft}$ area under pressure = **$155,168\text{ lbs}$ ($77.5\text{ tons}$) outward axial thrust**.
+
+### 2. Load Transfer & Anchor Geometry
+* **Perimeter Vertex Anchoring:** Bulkhead outward force is distributed across the 18 vertex nodes of the end ring ($6,333\text{ lbs}$ axial shear per node on a 12 ft frame).
+* **Tension Tie Integration:** Longitudinal runners and tension tie-rods extend through the primary end rings into the 2 ft welded seam section, distributing bulkhead thrust along the full 8 ft linear barrel length.
+* **Composite Tension Skin:** The terrycloth-style continuous glass-mat matrix cast into the bulkhead face handles multi-axis tensile stress, preventing doming flexure and maintaining seal integrity at the perimeter ring joint.
+
