@@ -10,7 +10,7 @@
 
 The surface outpost architecture integrates Earth-flown, high-performance metallic components with locally fabricated lunar materials (geocrete, basalt/glass textiles) and pressurized interior timber framing. The system provides the primary human habitability envelope, command hub, life support processing center, and ground vehicle maintenance bay.
 
-The structure is anchored directly adjacent to or beneath the 100 ft Lunar Power Tower. Module 02 accepts concentrated solar energy through a central, pressure-sealed optical beam port, feeding direct thermal storage and high-efficiency photovoltaic conversion arrays inside the sub-floor utility basement.
+The structure is anchored directly adjacent to or beneath the approximate 100 ft Lunar Power Tower (adjusted to site). Module 02 accepts concentrated solar energy through a central, pressure-sealed optical beam port, feeding direct thermal storage and high-efficiency photovoltaic conversion arrays inside the sub-floor utility basement.
 
 ┌───────────────────────────────────────────────────────────────────────────────────────────┐
 │                           HEAVY OVERBURDEN REGOLITH SHIELDING (1.5 - 2.0 m)                │
@@ -37,9 +37,9 @@ The structure is anchored directly adjacent to or beneath the 100 ft Lunar Power
 * **Module Envelopes:**
   * **Module 01 & 02 (Hab & Optical Hub):** 12.0 ft outer diameter (11.3 ft clear internal width across the floor line).
   * **Garage & Utility Section:** 14.0 ft outer diameter to accommodate ground vehicles and heavy equipment.
-  * **Section Layout:** Built in 8.0 ft barrel runs connected by 2.0 ft structural interface rings (10.0 ft total section length per segment).
+  * **Section Layout:** Built in 8.0 ft barrel runs connected by 2.0 ft structural interface rings (10.0 ft total section length per segment). For clear membrane welding space. 2 ft part install after weld.
 * **18-Point Polygonal Arch Ribs:**
-  * Circumferential support rings are constructed as an 18-point polygon using overlapping segments joined by transverse shear pins.
+  * Circumferential support rings are constructed as an 18-point polygon using flattened truss type segments joined by transverse shear pins.
   * **Primary Metallic Skeleton:** High-stress load paths, joint nodes, and pressure bulkhead rings utilize 1.5 in x 3.5 in x 0.125 in rectangular tubing in Aluminum-Lithium (Al-Li-2195) or Titanium Grade 5 (Ti-6Al-4V).
 
                             18-POINT POLYGON FRAME CROSS-SECTION
@@ -64,7 +64,7 @@ The structure is anchored directly adjacent to or beneath the 100 ft Lunar Power
                                       \         /
                                      [ SUB-FLOOR ]
 
-### 2.2 Integration of Timber and Engineered Wood
+### 2.2 Possible Integration of Timber and Engineered Wood or Standard lunar apropriate metal equivalent. 
 * **Pressurized Volume Application Only:** Engineered timber (2x4 / 2x6 dimensional lumber, cross-laminated timber (CLT), or glulam structural posts) can replace metallic elements for internal non-structural partitions, furniture, cabinetry, and secondary arch rib framing strictly within pressurized zones (>= 7.0 psi N2/O2).
 * **Vacuum Protection & Off-Gassing Mitigation:**
   * Wood sealed inside the flexible pressure bladder is never exposed to raw hard vacuum (10^-12 Torr), preventing rapid moisture desiccation, cell wall degradation, and embrittlement.
