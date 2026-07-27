@@ -59,11 +59,18 @@ The author/contributors claim priority on the following novel structural and ope
 * `/04_regolith_manufacturing/`: Sintered regolith density specs and structural profile conversion guides.
 ## File & Asset Directory
 
+### Core System Specifications & Modules
 * `ITE_MASTER_SPEC.md`: LSI-ACES Master Site Plan and System Overview.
-* `MODULE_01_02_PRESSURIZED...md`: Habitat Framing, 18-Point Polygon & Joint Mechanics.
-* `MODULE_03_04_POWER_THE...md`: Vanadium Flow Battery & Thermal Management Systems.
-* `MODULE_05_06_SOLAR_TOWE...md`: Solar Tower Infrastructure & Vertical Stacking Specifications.
-* `MODULE_07_08_EXCAVATION...md`: Excavation & Regolith Civil Engineering Protocols.
+* `MODULE_01_02_PRESSURIZED_HABITAT.md`: Habitat Framing, 18-Point Polygon & Joint Mechanics.
+* `MODULE_03_04_POWER_THERMAL.md`: Vanadium Flow Battery & Thermal Management Systems.
+* `MODULE_05_06_SOLAR_TOWER.md`: Solar Tower Infrastructure & Vertical Stacking Specifications.
+* `MODULE_07_08_EXCAVATION.md`: Excavation & Regolith Civil Engineering Protocols.
 * `REGOLITH_TO_RACK_MATRIX.md`: In-Situ Material Translation & Manufacturing Matrix.
 * `IC WOVEN TRUSS NODE.md`: Interlocking Woven Truss Node Mechanics.
 * `CHANGELOG.md`: Release Version History and System Updates.
+
+### CAD Assets & Diagrams (In Progress)
+* `/cad/01_habitat_framing/`: 2D vector CAD (`.DXF`), 3D STEP models, and joint mechanics notes.
+* `/cad/02_vanadium_power_thermal/`: Flow battery plumbing schematics and fluid loop integration diagrams.
+* `/cad/03_tower_infrastructure/`: Vertical stacking geometry, telescoping mechanics, and mast anchoring details.
+* `/cad/04_regolith_manufacturing/`: Sintered regolith density specs and structural profile conversion guides.
