@@ -76,3 +76,13 @@ The author/contributors claim priority on the following novel structural and ope
 * `/cad/02_vanadium_power_thermal/`: Flow battery plumbing schematics and fluid loop integration diagrams.
 * `/cad/03_tower_infrastructure/`: Vertical stacking geometry, telescoping mechanics, and mast anchoring details.
 * `/cad/04_regolith_manufacturing/`: Sintered regolith density specs and structural profile conversion guides.
+
+Definitions:
+## 2. Structural Architecture & Definitions
+
+### 2.X Circularized Flattened Truss (CFT) Assembly
+An interlocking, low-profile arc-truss configuration composed of short, sequential triangular segments designed to follow the inner radius of the primary hull shell.
+
+* **Keystone Load-Tightening Action:** Vertical and live deck loads drive adjacent segment wedge interfaces into direct compression, increasing overall structural rigidity as payload increases.
+* **Dual Tension-Compression Webbing:** Triangular members alternate load distribution between axial tension and compression, eliminating point-load concentration across individual nodes.
+* **Structural Cohesion:** Fastened perimeter radial nodes tie short individual segments into a single cohesive ring assembly, delivering high moment of inertia ($EI$) within a shallow vertical depth profile.
