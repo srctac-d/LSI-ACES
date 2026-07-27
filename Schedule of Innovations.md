@@ -1,1 +1,2 @@
 circularized flattened truss system
+ a simple definition is the use of short truss segments that connect together in such a way as to create an arch or circle, and function similar to a keystone arch. The more weight placed on it the tighter all the connections become. The members function in both compression and tension, sharing the load. The entire construction fastened in such a way as to create a cohesive assembly. 
