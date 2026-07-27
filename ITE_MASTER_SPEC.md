@@ -33,6 +33,14 @@
 
 ## 3. PRESSURIZED MODULE ARCHITECTURE & LAYOUT MATRIX
 
+## 2. Structural Architecture & Definitions
+
+### 2.X Circularized Flattened Truss (CFT) Assembly
+An interlocking, low-profile arc-truss configuration composed of short, sequential triangular segments designed to follow the inner radius of the primary hull shell.
+
+* **Keystone Load-Tightening Action:** Vertical and live deck loads drive adjacent segment wedge interfaces into direct compression, increasing overall structural rigidity as payload increases.
+* **Dual Tension-Compression Webbing:** Triangular members alternate load distribution between axial tension and compression, eliminating point-load concentration across individual nodes.
+* **Structural Cohesion:** Fastened perimeter radial nodes tie short individual segments into a single cohesive ring assembly, delivering high moment of inertia ($EI$) within a shallow vertical depth profile.
 Every module shares a standardized **Raised Joist Floor Profile**, installed approximately **4 feet above the lower structural hull curve**. This creates a continuous, protected **Under-Floor Utility Basement** housing high-voltage lines, thermal fluid loops, and atmospheric gas conduits completely isolated from primary living/working areas.
 
    [ OUTER REGOLITH / SHELL SHIELD ]
