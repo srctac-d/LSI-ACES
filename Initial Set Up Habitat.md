@@ -7,19 +7,18 @@
 
 Panel Dimensions: 4.0 ft Wide×6.0 ft Long×1.0 in Thick (∼45 lbs mass in lunar gravity).
 
-Terry Cloth Glass Textile Reinforcement: Woven on an automated 4-foot shuttle loom using continuous lunar basalt/glass fibers. The weave features dense vertical loops (like a bath towel).
+Terry Cloth Glass Textile Reinforcement: Woven on an automated 4-foot shuttle loom using continuous lunar basalt/glass fibers. The weave features dense vertical loops (like a bath towel). Similar Earth Supplied materials to use until loom is operating. 
 
-Encapsulation: Liquid alkali-activated regolith slurry penetrates the weave, completely enveloping the vertical Terry loops. Once cured, this forms a 3D mechanically locked matrix that cannot delaminate under heavy point loads.
+Encapsulation: Liquid alkali-activated regolith slurry penetrates the weave, completely enveloping the vertical Terry loops. Once cured, this forms a 3D mechanically locked matrix that cannot delaminate under heavy point loads. Integrated on tension side of cast hard materials.
 
-Edge Load Doublers: The outer 2.0–3.0 inches of each panel contain doubled loop density to absorb shear stress from heavy boots, equipment racks, and rolling vehicle tires.
-
+Edge Load Doublers: The outer 2.0–3.0 inches of each panel contain doubled loop density to absorb shear stress from heavy boots, equipment racks, and prevent slippage at end of fabric.
 Thermal Curing: Molds use embedded low-wattage silicone heating pads to hold 150∘F (65∘C) for 4–6 hours, achieving 80% total compressive strength (>6,000 psi) in under a day.
 
-    Optical Energy Receiver System & Module Subsystem Matrix 5.1 Integrated Base Optical Beam Port (Module 02)
+  After tower set up and system is stable,   Optical Energy Receiver System & Module Subsystem Matrix 5.1 Integrated Base Optical Beam Port (Module 02)
 
     Optical Inlet: High-purity fused silica optical window (12 in aperture) mounted along the top spine of Module 02.
 
-    Motorized Beam Distribution: Accepts concentrated solar beams directed down from the 100 ft Lunar Power Tower primary reflector. An internal motorized steering mirror/prism splits and directs the beam:
+    Motorized Beam Distribution: Accepts concentrated solar beams directed down from the aprox 100 ft Lunar Power Tower primary reflector. An internal motorized steering mirror/prism splits and directs the beam:
 
      70% Direct Power Split: Focused onto a dense Concentrated Photovoltaic (CPV) receiver bank and Stirling thermal engine block for electric power generation.
 
