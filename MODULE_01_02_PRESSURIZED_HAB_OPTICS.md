@@ -123,3 +123,21 @@ LUNAR HABITAT STRUCTURAL & INTEGRATION SPECIFICATION
 * **Tension Tie Integration:** Longitudinal runners and tension tie-rods extend through the primary end rings into the 2 ft welded seam section, distributing bulkhead thrust along the full 8 ft linear barrel length.
 * **Composite Tension Skin:** The terrycloth-style continuous glass-mat matrix cast into the bulkhead face handles multi-axis tensile stress, preventing doming flexure and maintaining seal integrity at the perimeter ring joint.
 
+## Integrated Starter Module Structural & Life Support Specification
+
+### 1. Primary Structural Skeleton & Integrated Overhead Beam
+* **Structural Material Spec:** Thin-wall rectangular tubing ($1.5\text{ in} \times 3.5\text{ in} \times 0.125\text{ in}$) in $Al\text{-}Li\text{-}2195$ or Titanium Grade 5 ($Ti\text{-}6Al\text{-}4V$).
+* **Overhead Central Spine (12 o'clock Vertex):** Heavy-duty $4\text{-inch}$ structural I-beam ($Al\text{-}Li\text{-}2195$, $S4\times 2.64$) running the full longitudinal axis.
+  * **Dual-Duty Function:** Acts as the primary ceiling longitudinal tension tie against bulkhead $7.0\text{ psi}$ blowout thrust while serving as an overhead monorail hoist track (rated for $2,000\text{ lbs}$ rolling equipment payload).
+* **Pre-Tensioned Turnbuckle Hardware:**
+  * 18 perimeter turnbuckle clevis assemblies ($5/8\text{-inch}$ high-strength alloy) located at both bulkhead interface rings.
+  * Provides $\pm 2.0\text{ inches}$ of field tension adjustment to draw the 2 ft connector sections snug and eliminate longitudinal membrane stretch across ring nodes.
+
+### 2. $4\text{ ft}$ Floor Joist System & Dual-Use Formwork Decks
+* **Floor Joist Array:** Transverse $3.0\text{ in} \times 1.5\text{ in}$ C-channel joists spanning the $11.3\text{ ft}$ chord line at the $4\text{ ft}$ elevation ($16\text{ inch}$ centers).
+* **Dual-Purpose Floor Panels:** Modular $0.50\text{-inch}$ webbed composite deck panels.
+  * **Initial Construction Mode:** Lock into floor joists to serve as a level, non-slip work deck for crew assembly and equipment movement.
+  * **In-Situ Casting Mode:** Detach and reposition as flat formwork panels for pouring interior geocrete/sintered regolith floor slabs and radiation partition walls.
+* **Under-Floor "Bilge" Storage Void:** $4.0\text{ ft}$ deep lower arc space below the joist plane dedicated to ballast, consumables, and environmental tanks.
+
+### 3. Integrated Under-Floor Life Support Subsystems (3-Person / 30-Day Nominal Baseline)
