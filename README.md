@@ -57,12 +57,14 @@ The author/contributors claim priority on the following novel structural and ope
 * `/02_vanadium_power_thermal/`: Flow battery plumbing schematics and fluid loop integration diagrams.
 * `/03_tower_infrastructure/`: Vertical stacking geometry, telescoping mechanics, and mast anchoring details.
 * `/04_regolith_manufacturing/`: Sintered regolith density specs and structural profile conversion guides.
+---
+
 ## File & Asset Directory
 
 ### Core System Specifications & Modules
 * `ITE_MASTER_SPEC.md`: LSI-ACES Master Site Plan and System Overview.
-* `MODULE_01_02_PRESSURIZED_HABITAT.md`: Habitat Framing, 18-Point Polygon & Joint Mechanics.
-* `MODULE_03_04_POWER_THERMAL.md`: Vanadium Flow Battery & Thermal Management Systems.
+* `MODULE_01_02_PRESSURIZED_HAB_OPTICS.md`: Habitat Framing, 18-Point Polygon & Joint Mechanics.
+* `MODULE_03_04_POWER_THERMAL_ROUTING.md`: Vanadium Flow Battery & Thermal Management Systems.
 * `MODULE_05_06_SOLAR_TOWER.md`: Solar Tower Infrastructure & Vertical Stacking Specifications.
 * `MODULE_07_08_EXCAVATION.md`: Excavation & Regolith Civil Engineering Protocols.
 * `REGOLITH_TO_RACK_MATRIX.md`: In-Situ Material Translation & Manufacturing Matrix.
