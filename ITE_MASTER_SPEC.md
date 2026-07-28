@@ -1,4 +1,4 @@
-THE LUNAR SURFACE INFRASTRUCTURE & AUTOMATED CIVIL ENGINEERING SYSTEM (LSI-ACES)
+**THE LUNAR SURFACE INFRASTRUCTURE & AUTOMATED CIVIL ENGINEERING SYSTEM (LSI-ACES)
 MASTER SITE PLAN & ARCHITECTURAL SPECIFICATION
 DOCUMENT ID: SPEC-SITE-MASTER-2026-V1
 
@@ -112,3 +112,4 @@ Downstream Supply Outputs: Manufactures high-tensile fiber-reinforced geocrete f
     Secondary Emergency Egress: Auxiliary submarine-type plug airlocks integrated at the terminal ends of both the Garage and Greenhouse modules to satisfy dual-means-of-egress safety standards.
 
 Copyright © 2026 Steve R Campbell. Licensed under CERN-OHL-S v2.
+**
