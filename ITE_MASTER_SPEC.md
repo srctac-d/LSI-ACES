@@ -47,15 +47,15 @@ An interlocking, low-profile arc-truss configuration composed of short, sequenti
 
 Every module shares a standardized Raised Joist Floor Profile, installed approximately 4 feet above the lower structural hull curve. This creates a continuous, protected Under-Floor Utility Basement housing high-voltage lines, thermal fluid loops, and atmospheric gas conduits completely isolated from primary living/working areas.
 
-[ OUTER REGOLITH / SHELL SHIELD ]
-/                                 \
- /    ┌─────────────────────────┐    \
-|     │   PRIMARY HABITABLE /   │     |
-|     │     WORK SPACE ZONE     │     |
-|     ├─────────────────────────┤     |
-\     │   4-FT JOIST FLOORING   │    /
- \    └─────────────────────────┘   /
-  === [ UNDER-FLOOR UTILITY ] ===/
+       [ OUTER REGOLITH / SHELL SHIELD ]
+      /                                 \
+     /    ┌─────────────────────────┐    \
+    |     │   PRIMARY HABITABLE /   │     |
+    |     │     WORK SPACE ZONE     │     |
+    |     ├─────────────────────────┤     |
+     \    │   4-FT JOIST FLOORING   │    /
+      \   └─────────────────────────┘   /
+       === [ UNDER-FLOOR UTILITY ] ===/
 
 3.1 Longitudinal Tubular Garage Module
 Dimensions: 14-foot diameter × 18-foot length.
