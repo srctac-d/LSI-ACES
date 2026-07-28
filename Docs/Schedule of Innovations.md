@@ -23,6 +23,7 @@
 | **Continuous Sub-Floor Utility Basement** | Domain 2: Isolated Utility Routing | Isolates 1,000 V HVDC main power trunks, hydronic heating/cooling loops, and ECLSS gas channels inside a protected 4 ft under-floor basement, preventing accidental crew interference and shielding against EMI. |
 | **Track-Welding Rim Joint System** | Domain 1: Modular Trench Handshake | Eliminates bending stress across modular habitat blocks by combining automated track-welding of structural metal end-rings with adjustable foundation jacks resting on trench bedrock. |
 | **Circular Submarine-Type Plug Door** | Domain 2: Differential Pressure Isolation | Uniformly distributes high-pressure loads ($+7.0\text{ psi}$ / $\pm 14.7\text{ psi}$) using circular/rounded portal frames, dual-concentric inflatable fluorosilicone seals, and passive over-center latches that tighten upon power loss. |
+| **Cellular Regolith / Foamed Grout Void Infill** | Domain 1 & 2: Structural Insulation, Mass Shielding & Thermal Storage | Adapts terrestrial utility cellular concrete backfilling (300 PSI air-entrained grout) to inject foamed regolith slurry into CFT frame voids using positive-displacement diaphragm pumping. Provides R-1.0 to R-2.0 per inch thermal insulation, ductile impact energy absorption without brittle micro-fracturing (capturing impacts plastically for micrometeorite defense), and serves as a passive thermal battery surrounding internal VRFB fluid loops. |
 
 ---
 
