@@ -1,4 +1,4 @@
-THE LUNAR SURFACE INFRASTRUCTURE & AUTOMATED CIVIL ENGINEERING SYSTEM (LSI-ACES)
+ THE LUNAR SURFACE INFRASTRUCTURE & AUTOMATED CIVIL ENGINEERING SYSTEM (LSI-ACES)
 MASTER SITE PLAN & ARCHITECTURAL SPECIFICATION
 DOCUMENT ID: SPEC-SITE-MASTER-2026-V1
 
@@ -47,7 +47,6 @@ An interlocking, low-profile arc-truss configuration composed of short, sequenti
 
 Every module shares a standardized Raised Joist Floor Profile, installed approximately 4 feet above the lower structural hull curve. This creates a continuous, protected Under-Floor Utility Basement housing high-voltage lines, thermal fluid loops, and atmospheric gas conduits completely isolated from primary living/working areas.
 
-```text
        [ OUTER REGOLITH / SHELL SHIELD ]
       /                                 \
      /    ┌─────────────────────────┐    \
@@ -57,3 +56,38 @@ Every module shares a standardized Raised Joist Floor Profile, installed approxi
      \    │   4-FT JOIST FLOORING   │    /
       \   └─────────────────────────┘   /
        === [ UNDER-FLOOR UTILITY ] ===/
+
+3.1 Longitudinal Tubular Garage Module
+Dimensions: 14-foot diameter × 18-foot length.
+Configuration: Pressurized longitudinal vessel with integrated ramp locks.
+Function: Equipment maintenance slip, suit-port interface, and protected parking for the ACTER Rover and heavy tool heads.
+
+3.2 Laboratory & Research Module
+Dimensions: 12-foot diameter.
+Function: Life-support monitoring, geotechnical material analysis, and chemical process control for in-situ material manufacturing.
+
+3.3 Greenhouse & Agriculture Module
+Dimensions: 12-foot diameter × 18-foot length.
+Function: Closed-loop bio-regenerative life support system (BLSS), volatile recycling, and crop propagation.
+
+3.4 Interconnected Corridor System
+Geometry: 5-Sided Interconnected Hallway Assembly forming a centralized hub node.
+Function: Connects the Garage, Lab, Greenhouse, and primary Habitat sectors while providing pressure-isolation bulkheads between distinct modules.
+
+4. LUNAR MANUFACTURING & INITIAL PRESSURIZED VOLUMES
+
+4.1 "Kit-for-First-Volume" Deployment Sequence
+Terrestrial Pre-Fabrication Kit: Initial pressurized operational workspace shipped 100% complete from Earth inside launch fairings.
+Lab Module Dual-Role: The 12-foot Lab Module is configured with the initial kit to function as the First-Segment Fabrication Hub.
+
+4.2 Initial In-Situ Material Processing
+Atmosphere-Controlled Production: Within the pressurized Lab/Fabrication hub, automated equipment processes raw regolith feedstocks without exposure to hard vacuum or thermal extremes.
+Downstream Supply Outputs: Manufactures high-tensile fiber-reinforced geocrete floor planks, structural beams, joists, and protective panels required to grow the habitat complex.
+
+5. SYSTEM INTEGRATION & MISSING GAP RESOLUTIONS (ADDED FOR COMPLETENESS)
+* Thermal Management Loop: Heat-exchanger radiators positioned in permanent shadow zones, tied directly into the continuous sub-floor utility basement fluidics.
+* Dust Mitigation Interlocks: High-voltage (HV) electrostatic dust grids installed at the primary garage airlock transition to prevent sharp, abrasive regolith from breaching the pressurized hallway hub.
+* Positive-Pressure Seal Gas Purge: Active Hydrogen (H2) volatile gas micro-charge routed through rotary joints, suit-ports, and sheave assemblies to create an outward gas boundary layer against micron dust intrusion.
+* Secondary Emergency Egress: Auxiliary submarine-type plug airlocks integrated at the terminal ends of both the Garage and Greenhouse modules to satisfy dual-means-of-egress safety standards.
+
+Copyright © 2026 Steve R Campbell. Licensed under CERN-OHL-S v2.
