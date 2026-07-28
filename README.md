@@ -51,12 +51,6 @@ The author/contributors claim priority on the following novel structural and ope
 
 ---
 
-## File & Asset Directory
-
-* `/01_habitat_framing/`: 2D vector CAD (`.DXF`), 3D STEP models, and joint mechanics notes.
-* `/02_vanadium_power_thermal/`: Flow battery plumbing schematics and fluid loop integration diagrams.
-* `/03_tower_infrastructure/`: Vertical stacking geometry, telescoping mechanics, and mast anchoring details.
-* `/04_regolith_manufacturing/`: Sintered regolith density specs and structural profile conversion guides.
 ---
 
 ## File & Asset Directory
