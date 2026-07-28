@@ -51,9 +51,8 @@ The author/contributors claim priority on the following novel structural and ope
 
 ---
 
-## File & Asset Directory
+## F### Core System Specifications & Modules
 
-### Core System Specifications & Modules
 * [ITE_MASTER_SPEC.md](ITE_MASTER_SPEC.md) — LSI-ACES Master Site Plan and System Overview.
 * [MODULE_01_02_PRESSURIZED_HAB_OPTICS.md](Docs/MODULE_01_02_PRESSURIZED_HAB_OPTICS.md) — Habitat Framing, 18-Point Polygon & Joint Mechanics.
 * [MODULE_03_04_POWER_THERMAL_ROUTING.md](Docs/MODULE_03_04_POWER_THERMAL_ROUTING.md) — Vanadium Flow Battery & Thermal Management Systems.
