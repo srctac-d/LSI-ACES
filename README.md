@@ -78,3 +78,46 @@ An interlocking, low-profile arc-truss configuration composed of short, sequenti
 * **Keystone Load-Tightening Action:** Vertical and live deck loads drive adjacent segment wedge interfaces into direct compression, increasing overall structural rigidity as payload increases.
 * **Dual Tension-Compression Webbing:** Triangular members alternate load distribution between axial tension and compression, eliminating point-load concentration across individual nodes.
 * **Structural Cohesion:** Fastened perimeter radial nodes tie short individual segments into a single cohesive ring assembly, delivering high moment of inertia ($EI$) within a shallow vertical depth profile.
+
+# LSI-ACES Master Architecture
+**Lunar Surface Infrastructure — Autonomous Construction & Environmental Systems**
+
+The LSI-ACES repository defines the operational blueprint and physical engineering specifications for deploying a subterranean lunar habitat, in-situ resource utilization (ISRU) refinery, and solid-state utility grid.
+
+---
+
+## 🛠️ System Architecture & Subsystems
+
+### 01. ISRU & Refining (`/01_ISRU_Refinery`)
+* **Transportable MOE Crucible:** Land-deployable 1.5m x 2.2m Molten Oxide Electrolysis reactor. Utilizes a primary plasma arc for initial melt, an 80kW IR susceptor array for thermal equilibrium, an inside submerged electrode for $O_2$ extraction, and secondary spot power control to prevent tapping freeze-ups.
+* **Optical Sapphire Growth:** Laser-swept capillary crystal growth powered by Coudé tower optics to cast high-durability optical windows and structures.
+
+### 02. Civil Engineering & Earthworks (`/02_Civil_Engineering`)
+* **80-Foot Saddle Trench Alignment:** 6-foot deep saddle trench excavation into lunar permafrost with mechanical screw-jacking stations along the X-assembly bulkhead.
+* **Continuous Insulation Sliders:** Mechanical elevation of the 20-foot monocoque frame to slide 1.5-inch pre-formed insulation foam panels beneath the hull prior to backfill.
+
+### 03. Structural Outfitting (`/03_Structural_Outfitting`)
+* **5+2 Foot Split-Joist Framework:** Modular 12-foot floor spans split into two 5-foot joist segments, pinned to central vertical compression posts with 3-way clam-shell plates and bridged by 2-foot center deck panels.
+* **In-Situ Geocrete Casting Bed:** Thermal floor curing loops (+25°C) within the 10-foot staging cell for cold-casting raw regolith/alkali-silicate inverted-T joists.
+* **Sub-Floor Containment & Reclaim:** Continuous inner polymer bladders and 0.1 psi dual-pressure vacuum reclaim sumps for full atmospheric gas and fluid recovery.
+
+### 04. Power Electronics & ECLSS (`/04_Power_ECLSS`)
+* **Solid-State Vanadium Power Matrix:** Replaces heavy, radiation-vulnerable copper transformers with high-frequency vanadium-alloy switching stages (~60% mass reduction, immune to cosmic particle latch-ups).
+* **Dual-Voltage Distribution:** Sub-floor utility channels housing a 480V AC heavy-equipment backbone and daisy-chained 120V AC / 24V DC utility harnesses.
+
+---
+
+## 📁 Repository File Index
+
+```text
+LSI-ACES-1/
+├── 01_ISRU_Refinery/          # Crucible, plasma arc & optical sapphire specs
+├── 02_Civil_Engineering/      # Trench jacking, leveling & insulation sliders
+├── 03_Structural_Outfitting/  # Split joists, geocrete casting & sub-floor sumps
+├── 04_Power_ECLSS/            # Vanadium power grid & ECLSS distribution
+├── Docs/                      # Supporting schematics and whitepapers
+├── Baseline Alignment Record.md
+├── CHANGELOG.md
+├── Initial Set Up Habitat.md
+├── README.md
+└── SPEC_SITE_MASTER_2026.md
