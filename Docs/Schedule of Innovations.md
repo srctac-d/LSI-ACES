@@ -36,3 +36,16 @@ The sub-floor and rib framing system utilizes an **Interlocking Arc-Truss geomet
 * **Load-Tightening Action (Keystone Effect):** Downward floor loads and live crew weight drive the angled mating interfaces of adjacent truss segments into direct contact. Increased loading increases interface compression, tightening the entire assembly.
 * **Dual-Action Member Loading:** Unlike traditional post-and-beam joists that rely solely on simple bending, individual structural members within the assembly alternate between axial compression and tension, distributing point loads across the full circumference.
 * **Continuous Cohesion:** Fastened radial nodes tie the individual short segments into a single cohesive structural ring, providing high circumferential stiffness against both positive internal pressure and negative external ground/shielding loads.
+
+
+---
+## Auto-Generated Spec Framework
+
+### Metadata
+*TBD - Pending detailed specification parameters.*
+
+### Active Material
+*TBD - Pending detailed specification parameters.*
+
+### Sequence of Operations
+*TBD - Pending detailed specification parameters.*

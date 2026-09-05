@@ -29,3 +29,16 @@ By defining these modular infrastructure interfaces side-by-side in this public 
 
 ---
 *Copyright © 2026 Steve R Campbell. Licensed under CERN-OHL-S v2.*
+
+
+---
+## Auto-Generated Spec Framework
+
+### Metadata
+*TBD - Pending detailed specification parameters.*
+
+### Active Material
+*TBD - Pending detailed specification parameters.*
+
+### Sequence of Operations
+*TBD - Pending detailed specification parameters.*

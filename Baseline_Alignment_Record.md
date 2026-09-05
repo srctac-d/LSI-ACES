@@ -37,3 +37,16 @@ All mechanical designs, cross-sections, and documentation checked into or genera
 * **Hardware & Mechanical Specs:** CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)
 * **Documentation & Analysis:** Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)
 * **Author / Copyright Holder:** Steve R Campbell (c) 2026
+
+
+---
+## Auto-Generated Spec Framework
+
+### Metadata
+*TBD - Pending detailed specification parameters.*
+
+### Active Material
+*TBD - Pending detailed specification parameters.*
+
+### Sequence of Operations
+*TBD - Pending detailed specification parameters.*

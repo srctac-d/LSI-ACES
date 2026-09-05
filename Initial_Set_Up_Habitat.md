@@ -274,3 +274,16 @@ TECHNICAL DOCUMENTATION & ANALYSIS:
 
 All textual descriptions, material matrix formulations, and cross-sectional diagrams are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
+
+
+---
+## Auto-Generated Spec Framework
+
+### Metadata
+*TBD - Pending detailed specification parameters.*
+
+### Active Material
+*TBD - Pending detailed specification parameters.*
+
+### Sequence of Operations
+*TBD - Pending detailed specification parameters.*

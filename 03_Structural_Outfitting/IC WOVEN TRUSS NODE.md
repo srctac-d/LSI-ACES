@@ -41,3 +41,16 @@ Terrestrial Applications: Rapid-deploy emergency shelters, extreme high-wind hou
 
 Extraterrestrial Applications: Modular planetary habitat sub-floors, trench-bound radiation-shielded foundations, and automated surface rover induction charging stations.
 
+
+
+---
+## Auto-Generated Spec Framework
+
+### Metadata
+*TBD - Pending detailed specification parameters.*
+
+### Active Material
+*TBD - Pending detailed specification parameters.*
+
+### Sequence of Operations
+*TBD - Pending detailed specification parameters.*

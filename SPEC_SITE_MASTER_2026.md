@@ -29,7 +29,8 @@ Onboard & Field Battery Buffers: High-density energy storage arrays dedicated to
 
 2. VERTICAL POWER & SOLAR COLLECTION INFRASTRUCTURE
 
-2.1 120-Foot Hexagonal Solar Tower
+2.1 100 ft – 250 ft Dynamic Hexagonal Solar Tower
+Structural Framing: Interlocking, lightweight hexagonal truss frame. Tower height is dynamically determined by local site conditions (100 ft to 250 ft) to maintain continuous 360-degree solar illumination.
 Structural Framing: Interlocking, lightweight hexagonal truss geometry featuring an 8-foot incised circle cross-sectional profile for maximum torsional resistance against winching forces.
 
 Dual Energy Harvesting Apex:
@@ -91,3 +92,16 @@ Downstream Supply Outputs: Manufactures high-tensile fiber-reinforced geocrete f
 * Secondary Emergency Egress: Auxiliary submarine-type plug airlocks integrated at the terminal ends of both the Garage and Greenhouse modules to satisfy dual-means-of-egress safety standards.
 
 Copyright © 2026 Steve R Campbell. Licensed under CERN-OHL-S v2.
+
+
+---
+## Auto-Generated Spec Framework
+
+### Metadata
+*TBD - Pending detailed specification parameters.*
+
+### Active Material
+*TBD - Pending detailed specification parameters.*
+
+### Sequence of Operations
+*TBD - Pending detailed specification parameters.*
